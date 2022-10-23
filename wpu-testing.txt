@@ -1,2 +1,3 @@
 ini adalah latihan membuat repository
 - hari pertama (1)
+- editing ke 1
